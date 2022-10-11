@@ -1,0 +1,53 @@
+.headerBox{
+   border: 5px solid black;
+   height: 220px;
+   display: flex;
+   align-items: flex-end;
+}
+#purple {
+    background-color: purple;
+    height: 150px;
+    width: 50px;
+    margin-right: 3vw;
+    margin-left: 1vw;
+    
+}
+#green{
+    background-color: green;
+    height: 180px;
+    width: 500px;
+    margin-right: 3vw;
+}
+#blue{
+    background-color: lightblue;
+    height: 180px;
+    width: 180px;
+    border-radius: 90px;
+}
+#dottedP{
+    border: 5px dotted black;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#tanP{
+    background-color: #E6E1C5;
+    height: 220px;
+    width: 1330px;
+    box-shadow: 7px, 7px, 7px black;
+}
+#bottomP{
+    border: .5px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 200px;
+    
+}
+#bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

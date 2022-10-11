@@ -1,0 +1,40 @@
+header {
+    background-color: gray;
+    height: 220px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    z-index: 5;
+}
+p{
+    height: 450px;
+    z-index: 1
+}
+footer {
+    background-color: black;
+    height: 80px;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    z-index: 2
+}
+.leftP {
+    background-color: #D7D9CE;
+    width: 100px;
+    height: 750px;
+    z-index: 3;
+    position: fixed;
+    top: 0px;
+    left: 0px
+}
+.rightP{
+    background-color: #D7D9CE;
+    width: 100px;
+    height: 750px;
+    z-index: 3;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
