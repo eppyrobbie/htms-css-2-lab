@@ -1,0 +1,41 @@
+header {
+    height: 90px;
+    background-color: #CACECA;
+    position: fixed;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+
+}
+#logo{
+    background-color: #3772FF;
+    height: 63px;
+    width: 63px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    bottom: 10px;
+
+}
+p{
+    margin-top: 120px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+} 
+#colorOne{
+    background-color: #1B94DA;
+    height: 150px;
+}
+#colorTwo{
+    background-color: #67CBAD;
+    height: 150px;
+}
+#colorThree{
+    background-color: #CEF7A0;
+    height: 150px;
+}
+#colorFour{
+    background-color: #F0F465;
+    height: 150px
+}

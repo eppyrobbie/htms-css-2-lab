@@ -35,7 +35,7 @@
     background-color: #E6E1C5;
     height: 220px;
     width: 1330px;
-    box-shadow: 7px, 7px, 7px black;
+    box-shadow: 7px 7px 7px black;
 }
 #bottomP{
     border: .5px solid gray;
@@ -44,6 +44,7 @@
     align-items: center;
     width: 500px;
     height: 200px;
+    box-shadow: 2px 2px 2px grey;
     
 }
 #bottom{
